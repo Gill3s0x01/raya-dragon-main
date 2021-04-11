@@ -20,8 +20,8 @@
   <a href="#page_with_curl-sobre">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Starting</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#How_to_contribute">Contributors</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#About_me">About_me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#user-content-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -82,7 +82,7 @@ This project is under license [MIT] (./ LICENSE).
 
 Made with love by Lorison Gilles s2 (Feito com amor por Lorison Gilles) 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/lorison-gilles/)
 
-## 👨🏻‍🚀 About me 👨🏻‍🔬
+## 👨🏻‍🚀 About_me 👨🏻‍🔬
 
 <a href="https://www.linkedin.com/in/lorison-gilles/">
  <img width="100px;" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54437398?s=460&u=72d88fd3a7e3a95041d7771f3a5e6ad7f33b8740&v=4"/>
