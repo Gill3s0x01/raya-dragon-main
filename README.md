@@ -85,7 +85,7 @@ Made with love by Lorison Gilles s2 (Feito com amor por Lorison Gilles) 👋🏽
 ## 👨🏻‍🚀 About me 👨🏻‍🔬
 
 <a href="https://www.linkedin.com/in/lorison-gilles/">
- <img style="border-radius:50%; width:100px; height:100px;" src="https://avatars.githubusercontent.com/u/54437398?s=460&u=72d88fd3a7e3a95041d7771f3a5e6ad7f33b8740&v=4"/>
+ <img width="100px;" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54437398?s=460&u=72d88fd3a7e3a95041d7771f3a5e6ad7f33b8740&v=4"/>
  <p>Lorison Gilles</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LorisonGilles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorison-gilles/)](https://www.linkedin.com/in/lorison-gilles/)
